@@ -5,7 +5,7 @@
         "detail": "In an event management project, several tasks and activities are involved to ensure the successful planning, organization, and execution of events.",
         "date": "Mei 2023",
         "types": ["Full-Stack","Front-End"],
-        "img" : "src/assets/image/project/eventManagement.png"
+        "img" : "/image/project/eventManagement.png"
     }],
     "Learning": [
         {
@@ -14,21 +14,21 @@
             "detail": "Currently attending Harisenin.com's Fullstack Developer bootcamp, where I'm gaining comprehensive skills in front-end and back-end web development. Learning HTML, CSS, JavaScript, React, Node.js, and working on real projects under experienced instructors. Excited to build a strong portfolio and pursue a successful career as a Fullstack Developer.",
             "date": "Mei 2023",
             "types": ["Full-Stack","Front-end","Backend"],
-            "img": "src/assets/image/Learning/harisenin-logo.jpeg"
+            "img": "/image/Learning/harisenin-logo.jpeg"
         },{
             "id": 2,
             "title": "Progate",
             "detail": "Enrolled in Progate's Frontend Developer course, learning HTML, CSS, JavaScript, and React.js. Building real projects to enhance skills in front-end web development. Excited to create user-friendly web interfaces.",
             "date": "Maret 2023",
             "types": ["Front-end"],
-            "img": "src/assets/image/Learning/progate.jpeg"
+            "img": "/image/Learning/progate.jpeg"
         },{
             "id": 3,
             "title": "Coding Studio",
             "detail": " The courses provided by Coding Studio have equipped me with the necessary skills to create visually engaging user interfaces using HTML, CSS, and JavaScript. Moreover, I am mastering database management techniques to efficiently store and retrieve data. Additionally, my exploration of Laravel has allowed me to build powerful and scalable web applications.",
             "date": "June 2023",
             "types": ["Front-end","DataBases", "Back-End"],
-            "img": "src/assets/image/Learning/cd-studio.jpeg"
+            "img": "/image/Learning/cd-studio.jpeg"
         }
     ],
     "Achievement": [
@@ -38,21 +38,21 @@
             "detail": "I am a winner of the district-level team competition, where I secured the first position as a representative of my school. The competition was organized by Cenderawasi University. ",
             "date": "2022",
             "types": ["Informatika","Matematika","Statistika"],
-            "img": "src/assets/image/Achievement/komaskom.png"
+            "img": "/image/Achievement/komaskom.png"
         },{
             "id": 2,
             "title": "Progate Front-End",
             "detail": "Enrolled in Progate's Frontend Developer course, learning HTML, CSS, JavaScript, and React.js. Building real projects to enhance skills in front-end web development. Excited to create user-friendly web interfaces.",
             "date": "Maret 2023",
             "types": ["Front-end"],
-            "img": "src/assets/image/Achievement/progate-certification.png"
+            "img": "/image/Achievement/progate-certification.png"
         },{
             "id": 3,
             "title": "Coding Studio",
             "detail": "The Front-End Developer course from Coding Studio is a comprehensive program for learning front-end web development with HTML, CSS, JavaScript, and Virtual Service Control.",
             "date": "June 2023",
             "types": ["Front-end"],
-            "img": "src/assets/image/Achievement/codingstudio-certificate.png"
+            "img": "/image/Achievement/codingstudio-certificate.png"
         }
     ]
     
