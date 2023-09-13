@@ -9,20 +9,18 @@ export default function ProjectList() {
                 <div id='project-list' className='w-full'>
                     <h2 className='text-3xl font-bold py-5'>Project</h2>
                 </div>
-                <div className='grid grid-cols-4 gap-4'>
-                    {
-                        projects.map((project, index) => (
-                            <ProjectCard
-                                key={index}
-                                id={project.id}
-                                title={project.title}
-                                detail={project.detail}
-                                DateProject={project.date}
-                                types={project.types}
-                                img={project.img}
-                                className="col-span-1"
-                            />
-                        ))}
+                <div className='flex justify-center gap-8'>
+                    {projects.map((project, index) => (
+                        <ProjectCard
+                            key={index}
+                            id={project.id}
+                            title={project.title}
+                            detail={project.detail}
+                            DateProject={project.date}
+                            types={project.types}
+                            img={project.img}
+                        />
+                    ))}
                 </div>
 
             </div>
